@@ -24,7 +24,7 @@ Projeto desenvolvido na 6ª NLW da [Rocketseat](https://rocketseat.com.br/).
 ## 💻 Instalação das dependências
 ```bash
 # Clone o repositório
-git clone https://github.com/j0tappe/letmeask.git
+git clone https://github.com/j0tappe/podcastrnext.git
 #Instale as dependências
 yarn install
 # ou
