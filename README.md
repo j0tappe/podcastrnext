@@ -3,7 +3,7 @@
 
 
 
-Projeto desenvolvido na 6ª NLW da [Rocketseat](https://rocketseat.com.br/).
+Projeto desenvolvido na 5ª NLW da [Rocketseat](https://rocketseat.com.br/).
 
 ## 🧩 Sobre o projeto
 
