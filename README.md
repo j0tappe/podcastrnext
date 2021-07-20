@@ -1,5 +1,5 @@
 # Podecastr 
-![image](https://user-images.githubusercontent.com/31297561/126333071-0deabc8f-6826-4b1b-bd6d-fb8ca26b7006.png)
+![image](https://user-images.githubusercontent.com/31297561/126343004-ce3290c2-2b6e-45f9-b021-8652ce3a64bd.png)
 
 
 
