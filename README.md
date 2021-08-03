@@ -7,7 +7,7 @@ Projeto desenvolvido na 5ª NLW da [Rocketseat](https://rocketseat.com.br/).
 
 ## 🧩 Sobre o projeto
 
-- Desenvolvido em React, o Podecastr é uma plataforma para reprodução de podcasts. Você pode conferir como ficou o projeto acessando o deploy da aplicação **[clicando aqui.](https://)**
+- Desenvolvido em React, o Podecastr é uma plataforma para reprodução de podcasts.
 
 
 ## 🚀 Tecnologias
